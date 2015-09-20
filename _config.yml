@@ -18,12 +18,12 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: lorenz.leitner@student.tugraz.at
+  facebook: lorenzleitner
   flickr:
   github: lolei
   instagram:
-  linkedin:
+  linkedin: LorenzLeitner
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: lorenzleitner
