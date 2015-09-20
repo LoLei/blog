@@ -4,12 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Some information about me!
 
-### More Information
+### Information
 
-A place to include any other types of information that you'd like to include about yourself.
+- Name: Lorenz Leitner
+- Age: 20
+- Location: Austria
+- Occupation: Student
+
+Refer to the [main page](http://lolei.github.io/) for more information.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[lorenz.leitner@student.tugraz.at](mailto:lorenz.leitner@student.tugraz.at)
