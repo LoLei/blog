@@ -3,6 +3,7 @@
 # External gems
 gems:
   - jekyll-sitemap
+  - jemoji
 
 # Site settings
 title: Lorenz Leitner Blog
