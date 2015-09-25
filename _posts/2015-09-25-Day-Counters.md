@@ -45,7 +45,6 @@ var one_day = 1000*60*60*24;
 // Calculate difference in milliseconds btw the two dates, and convert to days
 document.write(Math.ceil((today.getTime() - ep2.getTime()) / (one_day)) +
   " days since Half Life 2: Episode 2");
-document.write("<p>");
 var time = Math.ceil((today.getTime() - ep2.getTime()) / (one_day))
 
 // Split into Year, month and day
