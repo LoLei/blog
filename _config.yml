@@ -15,7 +15,7 @@ description: >
 baseurl: "/blog/" # the subpath of your site, e.g. /blog/
 url: "http://lolei.github.io" # the base hostname & protocol for your site
 cover: "images/header_image.jpg"
-logo: "images/jekyll-logo.png"
+logo: "assets/logo.png"
 
 # Build settings
 markdown: kramdown
