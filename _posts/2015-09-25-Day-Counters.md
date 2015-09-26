@@ -3,6 +3,7 @@ layout: post
 title: Half-Life 2 release counter
 author: Lorenz Leitner
 categories: Creations
+cover: "images/covers/hl2-cover-image.jpg"
 ---
 
 So far this blog has been really meta, this will be the first post which
