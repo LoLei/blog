@@ -53,6 +53,9 @@ i3lock -u -i /tmp/screen.png</code></pre>
 6. You can also create a keyboard shortcut. Go to your keyboard settings, shortcuts, create a custom shortcut, as command enter the script name and location again.  
 `~/lock.sh`
 
+And in case you don't know, i3lock can be unlocked just by typing your
+password when it is active and pressing `Enter`.
+
 ## Finish
 There you go, you have your own blurry lock screen.
 
