@@ -42,6 +42,9 @@ descriptions:
   - cat: creations
     desc: "Posts about stuff I built. \"Creations\" sounds pretentious somehow..."
 
+  - cat: tutorials
+    desc: "Tutorials on how to do things."
+
   - cat: other
     desc: "Posts about other stuff without their own categories yet."
 
