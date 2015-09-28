@@ -36,7 +36,7 @@ i3lock -u -i /tmp/screen.png</code></pre>
 0. Make sure you have the prerequisites, see above.
 
 1. Copy this script to your home folder, call it lock.sh (for example).  
-`curl http://lolei.github.io/assets/post_files/lock.sh >> ~/lock.sh`
+`curl http://lolei.github.io/blog/assets/post_files/lock.sh >> ~/lock.sh`
 
 2. Add permissions so it can be executed  
 `chmod +x ~/lock.sh`
@@ -56,7 +56,7 @@ i3lock -u -i /tmp/screen.png</code></pre>
 ## Finish
 There you go, you have your own blurry lock screen.
 
-If you think you're funny like me (`/s`), use a hilarious icon, click [here](http://lolei.github.io/assets/post_files/illuminati.png) for the one I made.
+If you think you're funny like me (`/s`), use a hilarious icon, click [here](http://lolei.github.io/blog/assets/post_files/illuminati.png) for the one I made.
 
 ---
 How it looks on my Laptop with Arch Linux:
