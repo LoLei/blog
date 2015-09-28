@@ -66,6 +66,6 @@ How it looks on my desktop PC with Elementary OS:
 <div><center><iframe width="720" height="480" src="http://webm.land/media/hXSh.webm" frameborder="0" allowfullscreen></iframe></center></div>
 
 ## Sources
-I found about this script on [Reddit](https://www.reddit.com/r/unixporn/comments/3358vu/i3lock_unixpornworthy_lock_screen).
+I found out about this script on [Reddit](https://www.reddit.com/r/unixporn/comments/3358vu/i3lock_unixpornworthy_lock_screen).
 
 The instructions I got from user [/u/TotallyNotAnAlien](https://www.reddit.com/r/unixporn/comments/3358vu/i3lock_unixpornworthy_lock_screen/cqib37h).
