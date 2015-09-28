@@ -13,7 +13,7 @@ name: Lorenz Leitner
 description: >
   The personal blog of Lorenz Leitner
 baseurl: "/blog/" # the subpath of your site, e.g. /blog/
-url: "http://lolei.github.io" # the base hostname & protocol for your site
+url: "http://lolei.github.io/blog" # the base hostname & protocol for your site
 cover: "images/header_image.jpg"
 logo: "assets/logo.png"
 
