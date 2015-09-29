@@ -9,6 +9,7 @@ mine.
 ## Friends
 - [Adrian Spataru](http://www.spataru.at/)
 - [Daniel Geiger](http://danielgpoint.at/)
+- [SeLveX](http://selvex.blogspot.co.at/)
 
 ## Other
 - (Nothing here yet)
