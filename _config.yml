@@ -45,6 +45,9 @@ descriptions:
   - cat: tutorials
     desc: "Tutorials on how to do things."
 
+  - cat: recommendations
+    desc: "Stuff I can recommend, mostly some software tools."
+
   - cat: other
     desc: "Posts about other stuff without their own categories yet."
 
