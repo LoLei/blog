@@ -10,6 +10,7 @@ mine.
 - [Adrian Spataru](http://www.spataru.at/)
 - [Daniel Geiger](http://danielgpoint.at/)
 - [SeLveX](http://selvex.blogspot.co.at/)
+- [lovelivewrite](https://stefanschauerblog.wordpress.com/)
 
 ## Other
 - (Nothing here yet)
