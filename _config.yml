@@ -39,6 +39,9 @@ descriptions:
   - cat: meta
     desc: "Posts about the website itself."
 
+  - cat: news
+    desc: "News about stuff I find interesting."
+
   - cat: creations
     desc: "Posts about stuff I built. \"Creations\" sounds pretentious somehow..."
 
