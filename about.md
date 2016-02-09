@@ -13,7 +13,7 @@ Some information about me!
 - Location: Austria
 - Occupation: Student
 
-Refer to the [main page](http://lolei.github.io/) for more information.
+Refer to the [main page](http://lorenz-leitner.com/) for more information.
 
 ### Contact me
 
