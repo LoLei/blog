@@ -9,7 +9,7 @@ Some information about me!
 ### Information
 
 - Name: Lorenz Leitner
-- Age: 20
+- Age: 21
 - Location: Austria
 - Occupation: Student
 
